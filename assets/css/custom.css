@@ -1,0 +1,14 @@
+/* Add your custom CSS here */
+.brand {
+  height : 5%;
+  width: 5%;
+  position: absolute;
+  background-color: black;
+}
+
+.color {
+  background-color: cyan
+}
+.font {
+  font-family: 'Crimson Text', serif;
+}  
